@@ -1,0 +1,50 @@
+
+.depicter-revert .depicter-95-element-4{
+	font-size:18px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Myriad";
+	font-weight:;
+	line-height:120%;
+	box-shadow:10px 10px 25px 0px #A7A2A2;
+	background-color:#F3313F;
+	border-radius:6px;
+}
+.depicter-revert .depicter-95-section-1 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert .depicter-95-element-4{
+	font-size:18px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Ubuntu";
+	font-weight:;
+	line-height:120%;
+	background-color:#F3313F;
+}
+.depicter-revert .depicter-95-section-1 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert .depicter-95-element-4{
+	font-size:14px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Ubuntu";
+	font-weight:700;
+	line-height:120%;
+	background-color:#F3313F;
+}
+.depicter-revert .depicter-95-section-1 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+}

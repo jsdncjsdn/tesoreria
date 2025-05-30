@@ -1,0 +1,215 @@
+
+.depicter-revert .depicter-312-element-31{
+	background-color:transparent;
+}
+.depicter-312-element-31 .depicter-bullet-item{
+	background-color:rgba(0, 0, 0, 0.5);
+	border-radius:5px 5px 5px 5px ;
+	margin-right:5px;
+	width:9px;
+	height:9px;
+}
+.depicter-312-element-31 .depicter-bullet-item.depicter-bullet-active{
+	background-color:#000000;
+}
+.depicter-revert .depicter-312-element-32{
+	background-color:transparent;
+}
+.depicter-312-element-32 .depicter-arrow-icon{
+	fill:#000000;
+}
+.depicter-revert .depicter-312-element-904{
+	font-size:18px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Myriad";
+	font-weight:;
+	line-height:120%;
+	box-shadow:6px 6px 12px 0px #000000;
+	background-color:#002D73;
+	border-radius:20px;
+}
+.depicter-revert .depicter-312-element-904:not(.depicter-hover-off){
+	transition:all linear 0.3s;
+}
+.depicter-revert .depicter-312-element-904:not(.depicter-hover-off):hover {
+	color:#FFFFFF;
+	transform:scale(0.86);
+	background-color:#F3313F;
+}
+.depicter-revert .depicter-312-element-892:not(.depicter-hover-off){
+	transition:all cubic-bezier(0.12, 0, 0.39, 0) 0.3s;
+}
+.depicter-revert .depicter-312-section-881 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-816 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-element-905{
+	font-size:18px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Myriad";
+	font-weight:;
+	line-height:120%;
+	box-shadow:6px 6px 12px 0px #000000;
+	background-color:#002D73;
+	border-radius:20px;
+}
+.depicter-revert .depicter-312-element-905:not(.depicter-hover-off){
+	transition:all linear 0.3s;
+}
+.depicter-revert .depicter-312-element-905:not(.depicter-hover-off):hover {
+	color:#FFFFFF;
+	transform:scale(0.86);
+	background-color:#F3313F;
+}
+.depicter-revert .depicter-312-section-806 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-789 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-element-378{
+	font-size:22px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Myriad";
+	font-weight:;
+	background-color:#E62C2B;
+	border-radius:6px;
+}
+.depicter-revert .depicter-312-element-378:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-312-element-378:not(.depicter-hover-off):hover {
+	opacity:1;
+	color:#FFFFFF;
+	box-shadow:6px 6px 25px 0px #000000;
+	transform:scale(0.86);
+	background-color:#002D73;
+}
+.depicter-revert .depicter-312-section-373 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-759 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-648 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-820 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+/***** Tablet *****/
+@media screen and (max-width: 1024px){
+
+.depicter-revert .depicter-312-element-31{
+	background-color:transparent;
+}
+.depicter-312-element-31 .depicter-bullet-item{
+	background-color:rgba(0, 0, 0, 0.5);
+}
+.depicter-312-element-31 .depicter-bullet-item.depicter-bullet-active{
+	background-color:#000000;
+}
+.depicter-revert .depicter-312-element-32{
+	background-color:transparent;
+}
+.depicter-312-element-32 .depicter-arrow-icon{
+	fill:#000000;
+}
+.depicter-revert .depicter-312-section-881 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-816 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-806 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-789 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-element-378{
+	font-size:22px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Myriad";
+	font-weight:;
+	background-color:#E62C2B;
+}
+.depicter-revert .depicter-312-element-378:not(.depicter-hover-off){
+	transition:all ease 0.3s;
+}
+.depicter-revert .depicter-312-section-373 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-759 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-820 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+}
+/***** Mobile *****/
+@media screen and (max-width: 767px){
+
+.depicter-revert .depicter-312-element-31{
+	background-color:transparent;
+}
+.depicter-312-element-31 .depicter-bullet-item{
+	background-color:rgba(0, 0, 0, 0.5);
+}
+.depicter-312-element-31 .depicter-bullet-item.depicter-bullet-active{
+	background-color:#000000;
+}
+.depicter-revert .depicter-312-element-32{
+	background-color:transparent;
+}
+.depicter-312-element-32 .depicter-arrow-icon{
+	fill:#000000;
+}
+.depicter-revert .depicter-312-element-904:not(.depicter-hover-off){
+	transition:all linear 0.3s;
+}
+.depicter-revert .depicter-312-section-881 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-816 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-element-905:not(.depicter-hover-off){
+	transition:all linear 0.3s;
+}
+.depicter-revert .depicter-312-section-806 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-789 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-element-378{
+	font-size:20px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Myriad";
+	font-weight:;
+	background-color:#E62C2B;
+}
+.depicter-revert .depicter-312-section-373 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-759 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-648 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-312-section-820 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
+}
